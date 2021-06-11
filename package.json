@@ -21,7 +21,7 @@
   "dependencies": {
     "async": "2.6.3",
     "chalk": "2.3.2",
-    "vnu-jar": "18.3.0"
+    "vnu-jar": "21.6.11"
   },
   "devDependencies": {
     "eslint-config-jquery": "^1.0.1",
